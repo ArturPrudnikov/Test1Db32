@@ -26,7 +26,7 @@ h1 {font-size: 200px}
 <?php
 
 echo '<p style="color: red, text-align: center">
-    Hello From AWS Elastic Beanstalk WebServer!
+    Hello From DevOps Elastic Beanstalk WebServer!
     </p>';
 
 
