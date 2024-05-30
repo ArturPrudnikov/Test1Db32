@@ -10,6 +10,8 @@ h1 {font-size: 200px}
 <center>
 <font color="white">
 <h1>Hello From DevOps WebPage!</h1>
+-----
+	
 </font>
 <h1>Hello world</h1>
 <p>Kharkiv</p>
@@ -26,7 +28,7 @@ h1 {font-size: 200px}
 <?php
 
 echo '<p style="color: red, text-align: center">
-    Hello From AWS Elastic Beanstalk WebServer!
+    Hello From DevOps Elastic Beanstalk WebServer!
     </p>';
 
 
